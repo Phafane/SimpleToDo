@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ x ] User can confirm before removing an item from the list
+* [ x ] User can **confirm** before removing an item from the list
 
 ## Video Walkthrough
 
